@@ -25,3 +25,4 @@ Corrective and Preventative Measures
 2. what can we do better next time?
 
 Google RCA link: https://developers.googleblog.com/2013/05/google-api-infrastructure-outage_3.html
+"Blameless" RCA: https://www.etsy.com/codeascraft/blameless-postmortems/ 
